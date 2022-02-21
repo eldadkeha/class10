@@ -1,0 +1,45 @@
+[I 00:49:02.348 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2022-02-21 00:49:03.565 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-21 00:49:03.565 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-21 00:49:03.565 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-21 00:49:03.565 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-21 00:49:03.565 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-21 00:49:03.566 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-21 00:49:03.566 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-21 00:49:03.566 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-02-21 00:49:03.566 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-02-21 00:49:03.566 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-21 00:49:03.566 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-21 00:49:03.566 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-02-21 00:49:03.575 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2022-02-21 00:49:03.575 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 00:49:03.586 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 00:49:03.588 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 00:49:03.589 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 00:49:03.589 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 00:49:03.589 NotebookApp] http://jupyter-eldadkeha-2dclass10-2dbejkv0mh:8888/user/eldadkeha-class10-bejkv0mh/?token=...
+[I 00:49:03.589 NotebookApp]  or http://127.0.0.1:8888/user/eldadkeha-class10-bejkv0mh/?token=...
+[I 00:49:03.589 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 00:49:03.594 NotebookApp] No web browser found: could not locate runnable browser.
+[I 00:49:03.596 NotebookApp] 302 GET /user/eldadkeha-class10-bejkv0mh/ (10.0.142.14) 0.680000ms
+[I 00:49:04.302 NotebookApp] 302 GET /user/eldadkeha-class10-bejkv0mh/?token=-Yc8ws71QyGhZ3yQXNoLsA (82.166.168.241) 0.670000ms
+[I 00:49:04.504 NotebookApp] 301 GET /user/eldadkeha-class10-bejkv0mh/lab/?token=-Yc8ws71QyGhZ3yQXNoLsA (82.166.168.241) 1.420000ms
+[I 00:49:14.277 NotebookApp] 301 GET /user/eldadkeha-class10-bejkv0mh/static/favicons/favicon.ico (82.166.168.241) 0.410000ms
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 2022-02-21 00:49:17.111 LabApp] Build is up to date
+[I 00:49:21.378 NotebookApp] Creating new notebook in 
+[I 00:49:21.390 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[I 00:49:23.833 NotebookApp] Kernel started: d0572f1d-9a84-4961-8818-101c3fb57137, name: python3
+[I 00:49:23.833 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 00:49:23.834 NotebookApp] Culling kernels even with connected clients
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 00:49:25.172 NotebookApp] Starting buffering for d0572f1d-9a84-4961-8818-101c3fb57137:611acfbb-fce1-4023-865b-8c2fb272fa6c
+[I 00:49:25.840 NotebookApp] 301 GET /user/eldadkeha-class10-bejkv0mh/static/favicons/favicon-busy-1.ico (82.166.168.241) 0.620000ms
+[I 00:51:22.680 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:53:19.993 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 1
+[I 00:55:15.740 NotebookApp] Saving file at /requirements.txt
