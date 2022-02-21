@@ -43,3 +43,18 @@ TermSocket.open: 1
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 1
 [I 00:55:15.740 NotebookApp] Saving file at /requirements.txt
+[W 01:05:23.834 NotebookApp] Culling 'idle' kernel 'python3' (d0572f1d-9a84-4961-8818-101c3fb57137) with 2 connections due to 649 seconds of inactivity.
+[I 01:05:23.835 NotebookApp] Kernel shutdown: d0572f1d-9a84-4961-8818-101c3fb57137
+[I 01:05:55.278 NotebookApp] Creating new notebook in 
+[I 01:05:58.334 NotebookApp] Kernel started: 5e8d1352-1b24-4fe6-a5ab-a40a2278332d, name: python3
+[I 01:06:43.226 NotebookApp] Saving file at /G11.ipynb
+[I 01:08:43.680 NotebookApp] Saving file at /G11.ipynb
+[I 01:10:13.655 NotebookApp] Kernel started: 712ec4f3-6b03-456e-a36a-27ce11f685d6, name: python3
+[I 01:11:12.750 NotebookApp] Saving file at /G10.ipynb
+[W 01:12:04.518 NotebookApp] Replacing stale connection: 712ec4f3-6b03-456e-a36a-27ce11f685d6:e05df3dd-b224-4423-8dad-f634c88125f0
+[I 01:12:09.520 NotebookApp] Starting buffering for 712ec4f3-6b03-456e-a36a-27ce11f685d6:e05df3dd-b224-4423-8dad-f634c88125f0
+[I 01:12:09.522 NotebookApp] Restoring connection for 712ec4f3-6b03-456e-a36a-27ce11f685d6:e05df3dd-b224-4423-8dad-f634c88125f0
+[W 01:20:23.835 NotebookApp] Culling 'idle' kernel 'python3' (5e8d1352-1b24-4fe6-a5ab-a40a2278332d) with 1 connections due to 608 seconds of inactivity.
+[I 01:20:23.835 NotebookApp] Kernel shutdown: 5e8d1352-1b24-4fe6-a5ab-a40a2278332d
+[W 01:22:23.836 NotebookApp] Culling 'idle' kernel 'python3' (712ec4f3-6b03-456e-a36a-27ce11f685d6) with 1 connections due to 614 seconds of inactivity.
+[I 01:22:23.836 NotebookApp] Kernel shutdown: 712ec4f3-6b03-456e-a36a-27ce11f685d6
